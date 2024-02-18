@@ -6,3 +6,5 @@ Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu
 <image src="![divergence3](File type invalid (1))divergence3.pdf"/>
 
 ![divergence3](/assets/divergence3.pdf)
+
+<embed src="/assets/divergence3.pdf" type="application/pdf">
