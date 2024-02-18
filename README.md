@@ -2,7 +2,7 @@
 
 <div align='center' >Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu</div>
 
-[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[文章]](https://jerrysoybean.github.io/assets/pdf/VIS_ICLR_2024_%E4%B8%AD%E6%96%87.pdf)
+[[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[slides]](https://jerrysoybean.github.io/assets/pdf/VIS%202023.10.5%20pre.pdf) [[文章]](https://jerrysoybean.github.io/assets/pdf/VIS_ICLR_2024_%E4%B8%AD%E6%96%87.pdf)
 
 ![divergence3](/assets/divergence3.png)
 
