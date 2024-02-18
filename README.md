@@ -1,5 +1,6 @@
 # Forward $\chi^2$ Divergence Based Variational Importance Sampling [ICLR 2024 Spotlight]
-Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu  
+<font size=5>Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu</font>
+
 [[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[文章]](https://jerrysoybean.github.io/assets/pdf/VIS_ICLR_2024_%E4%B8%AD%E6%96%87.pdf)
 
 ![divergence3](/assets/divergence3.png)
