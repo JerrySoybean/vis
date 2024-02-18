@@ -1,5 +1,7 @@
 # Forward $\chi^2$ Divergence Based Variational Importance Sampling [ICLR 2024 Spotlight]
-<font size=5>Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu</font>
+
+<div align='center' ><font size='5'>Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu</font></div>
+Chengrui Li, Yule Wang, Weihan Li, and Anqi Wu
 
 [[paper]](https://openreview.net/pdf?id=HD5Y7M8Xdk) [[arXiv]](https://arxiv.org/abs/2311.02516) [[文章]](https://jerrysoybean.github.io/assets/pdf/VIS_ICLR_2024_%E4%B8%AD%E6%96%87.pdf)
 
@@ -15,7 +17,13 @@ Go to the folder `mixture`. No installation is needed.
 
 Create three folders in `mixture`: `model`, `np`, and `csv`.
 
-Run `main.py` with different `idx` ranging from 0 to 39. This `idx` specifies the `method` and the random `seed` via
+Run `main.py` with different `idx` ranging from 0 to 39.
+
+```
+python main.py [idx]
+```
+
+This `idx` specifies the `method` and the random `seed` via
 ```
 method_list = ['VI', 'CHIVI', 'VBIS', 'VIS']
 seed_list = np.arange(10)
